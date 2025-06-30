@@ -87,12 +87,9 @@ D:.
 
 **Faisal Khan**
 
-- 🌐 [Portfolio](https://khanfaisal.netlify.app)
-- 💻 [GitHub](https://github.com/khanfaisal79960)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/khanfaisal79960)
-- ✍️ [Medium](https://medium.com/@khanfaisal79960)
-- 📷 [Instagram](https://instagram.com/mr._perfect_1004)
-
+- 🌐 [Portfolio](https://smayur.netlify.app)
+- 💻 [GitHub](https://github.com/MayurSangale1)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/mayursangale01/)
 ---
 
 > Crafted with 📊 by Faisal Khan.
