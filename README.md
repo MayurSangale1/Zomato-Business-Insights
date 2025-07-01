@@ -8,7 +8,7 @@
 
  ## 🌐 View Live Project
 
- 👉 [View Report](https://zomato-analysis.netlify.app/)
+ 👉 [View Report](https://mayursangale1.github.io/Zomato-Business-Insights/)
  👉 [View Dashboard](https://lookerstudio.google.com/reporting/54eba0b5-ef36-484e-8c48-96c2ff3bbff9)
  ---
 
